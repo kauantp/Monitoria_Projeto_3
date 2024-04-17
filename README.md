@@ -1,6 +1,8 @@
 # Monitoria_Projeto_3
 Projeto 3 que irei acompanhar com os alunos de monitoria de Desenvolvimento de algoritimos, utilizando a linguagem C
 
+**CONFIRA AS METRICAS DE AVALIAÇÂO EM:** [AVALIAÇÂO](Avaliação.md)
+
 Abaixo estão as instruções dos projetos:
 
 # Projeto 3 - Agenda de contatos
